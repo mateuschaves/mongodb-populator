@@ -1,0 +1,1 @@
+return [ "Saudável", "Saudável", "Hospitalizado", "Hospitalizado", "Hospitalizado", "Hospitalizado", "Hospitalizado", "Hospitalizado", "Morto", "Morto" ]
